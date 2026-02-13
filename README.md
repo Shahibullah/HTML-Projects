@@ -1,7 +1,11 @@
 git --version
+
 git init
+
 git add .
+
 git add index.html
+
 git commit -m "Initial commit"
 git branch -M main
 git remote remove origin
